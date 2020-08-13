@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 def say_hello(name= "Ruby Programmer")
   puts "Hello #{name}!"
+=======
+def
+  say_hello(name)
+>>>>>>> 379eea50de621a0b6a9cd7ebd1e1601e66683d0b
 end
 
 require_relative './spec_helper'
